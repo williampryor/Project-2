@@ -1,0 +1,9 @@
+TYPE_Clear3,Number_of_Power_Plants_of_Each_Type
+FOSSIL,3899
+SOLAR,3668
+HYDRO,1567
+WIND,1268
+MSW,428
+Other,152
+GEO,79
+NUCLEAR,65
