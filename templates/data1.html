@@ -1,0 +1,12 @@
+{% extends 'layout.html' %} {% block content%}
+<h2>CO 2 levels from various types of power plants in the US.</h2>
+<div>
+    <img id="heatmap" src="{{ url_for('static', filename='co2level.png')}}">
+    <article class="COdescription">
+        <p>
+            In this chart to our left, we have a doughnut chart visualization of energy consumption by power plant type.
+        </p>
+    </article>
+</div>
+
+{% endblock content%}

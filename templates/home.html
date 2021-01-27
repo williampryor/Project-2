@@ -1,0 +1,17 @@
+{% extends "layout.html" %} {% block content%}
+<h1 class="maphome" style="margin-left: 200px;">Description</h1>
+<article class="description">
+    <p>Below, we provide a few examples of what to expect when diving into our data sets, that contain various maps and/or charts of he Effects of Power Plants on Greenhouse Gas Emission within the US</p>
+</article>
+
+
+<div id="nasa" class="card" style="width: 40rem;">
+    <img src="{{ url_for('static', filename='nasa.png') }}" class="card-img-top" alt="...">
+
+</div>
+<div>
+    <img id="heatmap" src="{{ url_for('static', filename='heatmap1.png')}}">
+</div>
+
+
+{% endblock content%}

@@ -1,0 +1,60 @@
+body {
+    z-index: 1;
+    background-image: url('/static/frozen.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 10px;
+    padding-bottom: 60px;
+    /* Height of the footer */
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    /* Height of the footer */
+    background: #6cf;
+}
+
+.img-thumbnail {
+    size: 100px;
+}
+
+#heatmap {
+    z-index: 200;
+    max-width: 70%;
+    float: left;
+}
+
+.description {
+    float: left;
+    margin-right: 40%;
+}
+
+.navbar {
+    opacity: 60%;
+}
+
+.card {
+    opacity: 80%;
+}
+
+.bg-light {
+    opacity: 80%;
+}
+
+#heatmap {
+    width: 40rem;
+    margin-top: 20px;
+    opacity: 80%;
+}
+
+p {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.maphome {
+    text-align: justify;
+}
