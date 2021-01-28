@@ -23,7 +23,7 @@ This document contains requirements, project proposal, technical présentation a
 
 * Jeremy Jackson (jeremy_jackson_branch) - data mining, web-scripting, Python Flask, Power Point Presentation, discussions.
 
-* Parampreet Khanna (sam) -  data mining, Readme.md, discussions, powerplant map (), Power Point Presentation, discussions.
+* Parampreet Khanna (sam) -  data mining, Readme.md, discussions, powerplant map (legend), Power Point Presentation, discussions.
 
 * William Pryor (william_pryor) - data mining, data cleaning, Mongo DB, powerplant map (legends), web-scripting, discussions.
 
