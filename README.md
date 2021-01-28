@@ -6,7 +6,7 @@ It is a highly debated and hot topic (no pun intended), that will ultimately aff
 
 It would be interesting to see through visualizations and data if there truly is a trend in terms of how our climate is changing both locally and globally. This way, we can provide a more objective approach to answer the question “Is the world getting hotter?” Initially we plan on showcasing how climate is changing throughout the world; we will then narrow down to specifically focus on the United States. Particularly, we want to focus on whether or not there is a connection between Power Plant activity within the United States and temperature change. Although we understand that there are a multitude of factors contributing to the increase in greenhouse gases, we feel that Power Plants are a major contributor. (Main GreenHouse Gases: Carbon Dioxide, Methane, Nitrous Oxide.)
 
-![ice](static/frozen.png)
+![ice](static/frozen.jpg)
 
 ## GUIDELINES FOR PROJECT_2
 This document contains requirements, project proposal, technical présentation and conclusion.
