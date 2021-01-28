@@ -13,15 +13,15 @@ This document contains requirements, project proposal, technical présentation a
 
 ## **Team and Contributions**
 
-* Natalia Karimova ()  - data mining, data cleaning, powerplant map, Chart.js (bar chart; doughnut chart), Power Point Presentation, Readme.md, discussions.
+* Natalia Karimova (my_branch)  - data mining, data cleaning, powerplant map, Chart.js (bar chart; doughnut chart), Power Point Presentation, Readme.md, discussions.
 
-* Enoch Kwon - data mining (NASA data), temperature scatter plots and regression analysis, temperature heating map, Power Point Presentation, discussions.
+* Enoch Kwon (ekwon) - data mining (NASA data), temperature scatter plots and regression analysis, temperature heating map, Power Point Presentation, discussions.
 
-* Jeremy Jackson - data mining, web-scripting, Python Flask, Power Point Presentation, discussions.
+* Jeremy Jackson (jeremy_jackson_branch) - data mining, web-scripting, Python Flask, Power Point Presentation, discussions.
 
-* Parampreet Khanna -  data mining, Readme.md, discussions, Power Point Presentation, discussions.
+* Parampreet Khanna (sam) -  data mining, Readme.md, discussions, powerplant map (), Power Point Presentation, discussions.
 
-* William Pryor - data mining, data cleaning, Mongo DB, powerplant map (legends), web-scripting, discussions.
+* William Pryor (william_pryor) - data mining, data cleaning, Mongo DB, powerplant map (legends), web-scripting, discussions.
 
 ## ** Project requirements**
 1. Your visualization must include a Python Flask–powered API, HTML/CSS, JavaScript, and at least one database (SQL, MongoDB, SQLite, etc.).
