@@ -1,11 +1,17 @@
-## Project-2
+# The Effects of Power Plants on Greenhouse Gas Emission within the US
 
-GUIDELINES FOR PROJECT_2
+## Motivations:
+
+It is a highly debated and hot topic (no pun intended), that will ultimately affect everyone globally, if true. We are seeing record world temperatures every month, year after year both locally and globally. Subsequently, the areas in the oceans covered by ice have been decreasing drastically and the resulting warmer ocean water has been seen to damage coral reefs, threaten marine ecosystems, and ultimately disrupt the global fishing industry. 
+
+It would be interesting to see through visualizations and data if there truly is a trend in terms of how our climate is changing both locally and globally. This way, we can provide a more objective approach to answer the question “Is the world getting hotter?” Initially we plan on showcasing how climate is changing throughout the world; we will then narrow down to specifically focus on the United States. Particularly, we want to focus on whether or not there is a connection between Power Plant activity within the United States and temperature change. Although we understand that there are a multitude of factors contributing to the increase in greenhouse gases, we feel that Power Plants are a major contributor. (Main GreenHouse Gases: Carbon Dioxide, Methane, Nitrous Oxide.)
+
+## GUIDELINES FOR PROJECT_2
 This document contains requirements, project proposal, technical présentation and conclusion.
 
 ## **Team and Contributions**
 
-* Natalia Karimova  - data mining, data cleaning, powerplant map, Chart.js (bar chart; doughnut chart), Power Point Presentation, discussions.
+* Natalia Karimova  - data mining, data cleaning, powerplant map, Chart.js (bar chart; doughnut chart), Power Point Presentation, Readme.md, discussions.
 
 * Enoch Kwon - data mining (NASA data), temperature scatter plots and regression analysis, temperature heating map, Power Point Presentation, discussions.
 
@@ -15,9 +21,7 @@ This document contains requirements, project proposal, technical présentation a
 
 * William Pryor - data mining, data cleaning, Mongo DB, powerplant map (legends), web-scripting, discussions.
 
-
-
-Project requirements
+## ** Project requirements**
 1. Your visualization must include a Python Flask–powered API, HTML/CSS, JavaScript, and at least one database (SQL, MongoDB, SQLite, etc.).
 2. Your project should fall into one of the below four tracks: 
 1.	A custom “creative” D3.js project (i.e., a nonstandard graph or chart)
