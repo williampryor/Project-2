@@ -8,7 +8,11 @@ It would be interesting to see through visualizations and data if there truly is
 
 ![ice](static/frozen.jpg)
 
-## GUIDELINES FOR PROJECT_2
+## **Project Proposal**
+
+We would like to provide informative data to showcase how climate is changing by visualizing the effects of power plants on greenhouse gas emission and temperature change specifically within the United States. Particularly, we want to focus on whether there is a connection between Power Plant activity within the United States and temperature change. Further, we will deliberately breakdown this topic by focusing on electric power plants – numbers, types, most popular and least popular type.
+
+## Guidlines for the project**
 This document contains requirements, project proposal, technical présentation and conclusion.
 
 ## **Team and Contributions**
@@ -40,9 +44,7 @@ This document contains requirements, project proposal, technical présentation a
 5. Your project must include some level of user-driven interaction (e.g., menus, dropdowns, textboxes).
 6. Your final visualization should ideally include at least three views.
 
-## **Project Proposal
 
-We would like to provide informative data to showcase how climate is changing by visualizing the effects of power plants on greenhouse gas emission and temperature change specifically within the United States. Particularly, we want to focus on whether there is a connection between Power Plant activity within the United States and temperature change. Further, we will deliberately breakdown this topic by focusing on electric power plants – numbers, types, most popular and least popular type.
 
 ## **Technical Approach**
 
