@@ -1,7 +1,5 @@
 # The Effects of Power Plants on Greenhouse Gas Emission within the US
 
-Link for the website: 
-
 ## Motivations:
 
 It is a highly debated and hot topic (no pun intended), that will ultimately affect everyone globally, if true. We are seeing record world temperatures every month, year after year both locally and globally. Subsequently, the areas in the oceans covered by ice have been decreasing drastically and the resulting warmer ocean water has been seen to damage coral reefs, threaten marine ecosystems, and ultimately disrupt the global fishing industry. 
